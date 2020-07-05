@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pomodoro Focus</string>
+    <string-array name="start_quote">
+        <item>A pomodoro a day, brings you to success!</item>
+        <item>The more the pomodoro, the closer you are from your goal!</item>
+        <item>Set small goals to achieve bigger dreams!</item>
+        <item>Work hard and dream big!</item>
+    </string-array>
+
+    <string-array name="motivation">
+        <item>Don\'t forget your goals!</item>
+        <item>Hardwork will not betray us!</item>
+        <item>Stay strong!</item>
+        <item>You can do it!</item>
+        <item>Just a few more minutes!</item>
+        <item>You\'re about to achieve your goals! Don\'t stop</item>
+        <item>Stop now and you\'ll regret</item>
+        <item>Work towards a better self!</item>
+    </string-array>
+    <string name="version">Alpha</string>
+    <string name="producer">Made by Shen Yien</string>
+</resources>
