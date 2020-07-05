@@ -28,6 +28,7 @@ A simple efficiency app that utilises pomodoro technique
   * Can't set your own ringtone.
   * Takes a bit time to load for apps on starting screen.
   * Checks for the current app in foreground every 5s, not that efficient.
+  * There'll be a problem for the bar chart if the user does not use the app consecutively, in which it will disrupt the real date.
   
 **Future plan**
   * Overcome the problems especially the force close app.
