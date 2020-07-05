@@ -16,6 +16,8 @@ A simple efficiency app that utilises pomodoro technique
 <img src = https://github.com/HohShenYien/Pomodoro_Focus/blob/master/preview/Screenshot_20200705-231051.jpg width="300" height="600"/>
 <img src = https://github.com/HohShenYien/Pomodoro_Focus/blob/master/preview/Screenshot_20200705-231059.jpg width="300" height="600"/>
 
+* The app can be downloaded <a href="https://github.com/HohShenYien/Pomodoro_Focus/blob/master/preview/Pomodoro_Focus.apk">here</a>
+
 **Sources**
   * The icon is by Pixel perfect from flaticon.com
   * Color gradient for background from https://uigradients.com/
@@ -36,3 +38,5 @@ A simple efficiency app that utilises pomodoro technique
   * Add in more artistic means.
   * Enable customisable ringtone.
   * Adding strict and relaxed mode.
+  
+
