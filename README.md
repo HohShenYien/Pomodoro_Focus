@@ -12,6 +12,7 @@ A simple efficiency app that utilises pomodoro technique
   * Unique sound upon completion.
   
 **Previews**
+
 <img src = https://github.com/HohShenYien/Pomodoro_Focus/blob/master/preview/Screenshot_20200705-231823.jpg width="300" height="600"/>
 <img src = https://github.com/HohShenYien/Pomodoro_Focus/blob/master/preview/Screenshot_20200705-231055.jpg width="300" height="600"/>
 <img src = https://github.com/HohShenYien/Pomodoro_Focus/blob/master/preview/Screenshot_20200705-231051.jpg width="300" height="600"/>
